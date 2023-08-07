@@ -19,3 +19,12 @@ Me gusta *Git y GitHub*
   > Nuestra cita
 > 
   Tenemos una cita imbricada `la cita está aquí `
+
+# Código dentro del Markdown  
+  
+  Para hacer un commit  
+```  
+git status  
+git add -A  
+git commit -m "Nombre del commit"
+```

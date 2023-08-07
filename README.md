@@ -35,4 +35,11 @@ git commit -m "Nombre del commit"
   link hacia otro sitio [hacia test.md](test.md).  
     
   # Adjuntar una imagen  
-  ![logo](https://assets-fr.imgfoot.com/media/cache/1200x675/diego-simeone-2223.jpg)
+  ![logo](https://assets-fr.imgfoot.com/media/cache/1200x675/diego-simeone-2223.jpg)  
+    
+  # Añadir emoticono  
+
+  Para encontrar la lista de emoticonos disponible en GitHub: [lista de emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+    
+  Es muy divertido Git et GitHub :rofl:  
+  

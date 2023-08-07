@@ -56,7 +56,10 @@ git commit -m "Nombre del commit"
   3. Cebolla 
   
   ## Listas imbricadas  
-  *Elemento 1
-    *Elemento 1.1  
-      *Elemento 1.A.1
-      *Elemento 1.A.2
+  * Elemento 1  
+    * Elemento1A  
+      * Elemento 1A1  
+      * Elemento 1A2  
+
+
+    

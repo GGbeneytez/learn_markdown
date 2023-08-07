@@ -62,8 +62,8 @@ git commit -m "Nombre del commit"
       * Elemento 1A2  
 
 ## To Do
-* [] Roquefort  
+* [ ] Roquefort  
 * [x] Cantal  
-* [] Manchego  
+* [ ] Manchego  
 
     

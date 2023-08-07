@@ -33,4 +33,6 @@ git commit -m "Nombre del commit"
   
   Para ir hacia mi sitio: [Codabee](https://www.codabee.com)  
   link hacia otro sitio [hacia test.md](test.md).  
-  
+    
+  # Adjuntar una imagen  
+  ![logo](https://assets-fr.imgfoot.com/media/cache/1200x675/diego-simeone-2223.jpg)

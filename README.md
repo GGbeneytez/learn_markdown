@@ -16,5 +16,5 @@ Me gusta *Git y GitHub*
 <sup>Superscript</sup>  
   
   # Citación 
-  > Nuestra cita
+  > Nuestra cita  
   Tenemos una cita imbricada `la cita está aquí `

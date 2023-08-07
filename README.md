@@ -42,4 +42,15 @@ git commit -m "Nombre del commit"
   Para encontrar la lista de emoticonos disponible en GitHub: [lista de emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
     
   Es muy divertido Git et GitHub :rofl:  
-  
+    
+  # Listas
+    
+  ## Listas simples (no ordenadas)  
+  *Elemento A*  
+  *Elemento B*  
+  *Elemento C*  
+
+  ## Lista ordenada  
+  1. Tomate
+  2. Lechuga
+  3. Cebolla 
